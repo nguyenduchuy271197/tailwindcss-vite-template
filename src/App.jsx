@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <div>
-      <div className="max-w-screen-xl mx-auto">
-        <div className="grid grid-cols-3 gap-6">
+      <div className="max-w-screen-xl px-8 mx-auto">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           <div className="bg-gray-100 p-4 rounded-xl">
             <div className="flex gap-4">
               <div>
